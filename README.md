@@ -414,3 +414,4 @@ select * from customer_behaviour_analysis;
 ![Alt text](sql-image3.png)
 ![Alt text](sql-image6.png)
 ![Alt text](python-image.png)
+![Alt text](python-image3.png)
