@@ -409,3 +409,4 @@ go;
 select * from customer_behaviour_analysis;
 ```
 ![Alt text](customer-behaviour-image.png)
+![Alt text](customer-behaviour-image2.png)
