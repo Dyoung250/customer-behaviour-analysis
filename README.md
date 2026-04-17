@@ -476,4 +476,35 @@ select * from customer_behaviour_analysis;
 		This indicates that customers purchases more products from clothing category than any other category.
         
 #### 6. REPEAT BUYERS:
-        
+        Repeat purchase or buyers  stands at 29.69% which represent about 99,000. Although the total subscribers stands at 0.27%.
+		The chance at which the repeat buyers may likely subscribe is high.
+
+
+
+
+
+##       CONCLUSION:
+####     The men's engine: 
+		 With 68% of your revenue , the men's segment is the cornerstone. 
+		 It would be interesting to understand whether this is due to the product catalog or a targeted marketing strategy.
+		 
+####     The value of "Seniors": 
+		 Despite having 4 age group, they generate 26.5% of spending . 
+		 They are an audience with high purchasing power that deserves dedicated campaigns.
+		 
+####     Discount dependence: 
+         The fact that 55% of the revenue comes from discounts suggests that the customers are highly price sensitive. 
+		 This increases volume, but could erode long-term margins.
+		 
+####     The Subscriber Paradox: 
+         Non-subscribers bring in 73% of revenue . This indicates enormous untapped potential: 
+		 we have many loyal customers (29.69% repeat purchases) who haven't yet made the leap to a subscription.
+		 
+####     Clothing Category Efficiency:
+		 The Clothing category generates almost 45% of total turnover (148k out of 332k), with Blouses, Dresses and Shirts leading the way.
+		 Insight: These are the "lead products." Given that men are the main contributors (68%), "Shirts" are likely the key driver of men's sales volumes.
+		 Action: Optimize cross-selling. If a man buys a shirt, offer accessories or pants (potentially underperforming categories) to increase the average purchase price without resorting to further discounts.
+
+####     ACTIONABLE TIPS:
+		 Given the high rate of repeat purchases (almost 30%) compared to the low share of subscribers (27%), 
+		 we could create a specific conversion campaign for "Repeat Buyers", offering them a special incentive to subscribe.
