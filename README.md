@@ -3,7 +3,16 @@
 ##     Overview
 ####   This project analyzes customer shopping behavior to uncover insights that improve sales performance, customer satisfaction, discount users, revenue based on age group and long-term loyalty. The analysis covers purchasing patterns, demographics, product preferences, product subscription pattern and sales channels.
 
+## 		Expected Insights:
+At the end of this project we would be able to uncover or answer the following questions:
+	1. Which gender contributes more revenue?
+	2. Which age group spends the most?
+	3. Do discounts increase revenue or reduce margins?
+	4. Are subscribers more valuable than non-subscribers?
+	5. Which products and category performs best?
+	6. Are repeat buyers more likely to subscribe?
 
+	
 ##        Dataset Description:
 ```python
 #   Column                      Non-Null Count  Dtype   
@@ -415,3 +424,56 @@ select * from customer_behaviour_analysis;
 ![Alt text](sql-image6.png)
 ![Alt text](python-image.png)
 ![Alt text](python-image3.png)
+
+
+
+## KPIs DEFINED
+####  1. Total Revenue = (332k)
+ This the total revenue generated accross different product categories and products 
+ 
+####  2. Average Purchase / AOV = (85)
+ The average value of a single transaction (average cart).
+ This indicates a significant amount of money an individual customer is willing to spend at a time .
+ 
+####  3. Total Customers (4k)
+ The size of the total customer base.
+ This simply indicates that  4,000 people have trusted the brand. 
+ 
+####  4. % Repeat Purchase = (29% or 0.29)
+ The percentage of customers who placed more than one order.
+ This is a key indicator of loyalty .
+ 
+####  5. Avg Rating = (3.75 / 5)
+ The average rating given by customers. 
+ This tells a lot about customers satisfaction derievd from a product or service.
+ It has a high impact to play on customers retention.
+ 
+####  6. % Subscribed Users = (0.27)
+ This data indicates the number of customers that have subscribed to the brand . 
+ A high percentage of subscribers means the customer wants to stay in touch with the brand. 
+ It's the most cost-effective channel for increasing repeat purchases through newsletters or dedicated offers.
+
+## KEY INSIGHTS:
+#### 1. GENDER (MALE GENDER):
+		The male gender generates the highest revenue of 226k out total revenue of 332k, 
+		and it contributes about 68% of the total revenue. This indicates that male gender contributes largely than female gender in terms of revenue generations.
+
+#### 2. AGE GROUP (senior):
+        The customers that are in the 'senior' age-group spends more than the rest of other age-groups,
+		At the total spending of 88k out of 332k, this represents about 26.5% of the total spending.
+		
+#### 3. DISCOUNT IMPACT:
+        The discount impacted hugely to a total of 189k which represent a 55% of the total revenue of 332k.
+		That is to say that it increases the revenue with 55% contribution.
+
+#### 4. SUBSCRIBERS VS NON-SUBSCRIBERS:
+		Subscribers generates a revenue of 90k which represents 27% of the total revenue.
+		Non-Subscribers generates a revenue of 242k which as well represents 73% of the total revenue of 332k.
+		In this case, having compared the Subscribers and Non-Subscribers, we noticed the Non-Subscribers are more valuable than Subscribers.
+
+#### 5. PRODUCT AND CATEGORY BEST PERFORMANCE:
+        The product 'Blouse','Dress', 'Shirt' and category 'Clothing' has the best performance which has the revenue contributions of 15k each and 148k respectively.
+		This indicates that customers purchases more products from clothing category than any other category.
+        
+#### 6. REPEAT BUYERS:
+        
