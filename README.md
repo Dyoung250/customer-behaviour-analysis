@@ -45,6 +45,11 @@ dtypes: category(4), float64(1), int64(7), object(12)
 memory usage: 560.6+ KB
 ```
 
+## TOOLS USED: 
+####    1. Microsoft SQL
+####    2. Python (pandas and numpy)
+####    3. Power BI (power query, Dax,  Dashboard visualisation tools).
+
 ##        PYTHON DATA CLEANING STEPS:
 ```python
 import pandas  as pd
