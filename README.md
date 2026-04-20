@@ -5,12 +5,12 @@
 
 ## 		Expected Insights:
 At the end of this project we would be able to uncover or answer the following questions:
-	1. Which gender contributes more revenue?
-	2. Which age group spends the most?
-	3. Do discounts increase revenue or reduce margins?
-	4. Are subscribers more valuable than non-subscribers?
-	5. Which products and category performs best?
-	6. Are repeat buyers more likely to subscribe?
+#### 	1. Which gender contributes more revenue?
+####    2. Which age group spends the most?
+####    3. Do discounts increase revenue or reduce margins?
+####    4. Are subscribers more valuable than non-subscribers?
+####    5. Which products and category performs best?
+####    6. Are repeat buyers more likely to subscribe?
 
 	
 ##        Dataset Description:
